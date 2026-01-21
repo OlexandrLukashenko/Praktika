@@ -1,4 +1,4 @@
-import {login} from './pages/login.js';
+import {login} from 'login.js';
 
 export const router = VueRouter.createRouter({
     history:VueRouter.createWebHashHistory(),
